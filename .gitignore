@@ -1,0 +1,18 @@
+# Çevre Değişkenleri ve Gizli Dosyalar (En önemlisi!)
+.env
+
+# Python Sanal Ortam Klasörleri
+venv/
+env/
+
+# Python Ön Bellek (Cache) Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook Logları ve Çıktıları
+.ipynb_checkpoints/
+
+# İşletim Sistemi Geçici Dosyaları
+.DS_Store
+Thumbs.db
