@@ -3,7 +3,7 @@ import networkx as nx
 from pyvis.network import Network
 
 # loading JSON data
-with open('data/mystery_graph.json', 'r', encoding='utf-8') as f:
+with open('data/mystery_graph_2.json', 'r', encoding='utf-8') as f:
     triplets = json.load(f)
 
 # creating an empty Directed Graph
