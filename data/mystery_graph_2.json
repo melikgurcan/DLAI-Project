@@ -1,0 +1,22 @@
+[
+  {"subject": "Elias Thorne",
+    "relation": "found poisoned in",
+    "object": "Conservatory"
+  },
+  {"subject": "Isabella",
+    "relation": "written out of will by",
+    "object": "Elias Thorne"
+  },
+  {"subject": "Arthur",
+    "relation": "argued with",
+    "object": "Elias Thorne"
+  },
+  {"subject": "Isabella",
+    "relation": "purchased",
+    "object": "Toxic Seeds"
+  },
+  {"subject": "Arthur",
+    "relation": "worked in",
+    "object": "Garden"
+  }
+]

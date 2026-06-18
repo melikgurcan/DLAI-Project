@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Dr. Mira Voss",
+    "relation": "found dead in",
+    "object": "Server Room"
+  },
+  {
+    "subject": "Server Room",
+    "relation": "locked after",
+    "object": "8:45 p.m."
+  },
+  {
+    "subject": "Lena",
+    "relation": "had prior access to",
+    "object": "Server Room"
+  },
+  {
+    "subject": "Victor",
+    "relation": "had prior access to",
+    "object": "Server Room"
+  },
+  {
+    "subject": "Arun",
+    "relation": "had prior access to",
+    "object": "Server Room"
+  },
+  {
+    "subject": "Lena",
+    "relation": "left building at",
+    "object": "8:30 p.m."
+  },
+  {
+    "subject": "Victor",
+    "relation": "appeared in lobby at",
+    "object": "8:40 p.m."
+  },
+  {
+    "subject": "Arun",
+    "relation": "worked in",
+    "object": "Cafeteria"
+  },
+  {
+    "subject": "Arun",
+    "relation": "worked during",
+    "object": "8:35 p.m. to shortly after 9:00 p.m."
+  },
+  {
+    "subject": "Body",
+    "relation": "discovered at",
+    "object": "9:10 p.m."
+  },
+  {
+    "subject": "Lena",
+    "relation": "owed money to",
+    "object": "Arun"
+  },
+  {
+    "subject": "Victor",
+    "relation": "worked for",
+    "object": "Rival Company"
+  },
+  {
+    "subject": "Victor",
+    "relation": "threatened",
+    "object": "Dr. Mira Voss"
+  },
+  {
+    "subject": "Victor",
+    "relation": "demanded prototype AI model from",
+    "object": "Dr. Mira Voss"
+  },
+  {
+    "subject": "Arun",
+    "relation": "previously collaborated with",
+    "object": "Victor"
+  },
+  {
+    "subject": "Arun",
+    "relation": "publicly denied knowing",
+    "object": "Victor"
+  },
+  {
+    "subject": "Dr. Mira Voss",
+    "relation": "confronted",
+    "object": "Lena"
+  },
+  {
+    "subject": "Dr. Mira Voss",
+    "relation": "discovered copied confidential files by",
+    "object": "Lena"
+  },
+  {
+    "subject": "Lena",
+    "relation": "told",
+    "object": "Victor"
+  },
+  {
+    "subject": "Prototype AI Model",
+    "relation": "would be stored in",
+    "object": "Server Room"
+  }
+]
